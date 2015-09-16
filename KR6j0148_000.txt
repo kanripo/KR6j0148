@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說佛頂尊勝陀羅尼經
+#+DATE: 2015-08-30 20:26:50.583579
+#+PROPERTY: JUAN 0
