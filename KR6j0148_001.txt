@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:50.387436
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:24
 #+TITLE: 佛說佛頂尊勝陀羅尼經
 #+PROPERTY: CBETA_ID T19n0971
 #+PROPERTY: ID KR6j0148
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 971
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0148_T_000-0361c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0148_T_001-0361c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.971¶
-
- 佛說佛頂尊勝陀羅尼經¶
+No. 971¶
+佛說佛頂尊勝陀羅尼經¶
 ¶
 大唐三藏沙門義淨奉　制譯¶
 
@@ -50,7 +49,7 @@ No.971¶
 父。令其善住免斯苦耶爾時帝釋作是念已。¶
 於初夜分以種種華天妙衣服以自莊嚴。執¶
 持花香往逝多林。詣世尊所恭敬供養。頂禮¶
-雙足遶七匝已。長跪合掌而白佛言。善住¶
+雙足遶七匝巳。長跪合掌而白佛言。善住¶
 天子聞有聲言。却後七日命終而受七返傍¶
 生惡趣之身。聞此語已極懷憂苦痛貫於心。¶
 世尊大慈哀慜利益。云何令得免斯苦耶。¶
